@@ -15,7 +15,7 @@ O objetivo principal deste trabalho foi estruturar e armazenar de forma eficient
 
   - `Relatório_base_de_dados.pdf`: Artigo final do projeto, contêm os resultados, conclusões e discussões relacionadas ao projeto.
 
-  - `Script.ipynb`: Script que extrai dados do Genbank via NCBI e insere automaticamente na base de dados.
+  - `Script.ipynb`: Notebook com scripts responsáveis por extrair dados do Genbank via NCBI e inserir automaticamente na base de dados.
 
   - `Base_de_dados`: Contém os ficheiros de modelação e estruturação da base de dados.
 
